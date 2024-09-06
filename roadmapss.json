@@ -1,0 +1,162 @@
+{
+  "Frontend Beginner": {
+    "HTML": {
+      "title": "HTML",
+      "type": "topic",
+      "paragraphs": [
+        "HTML stands for HyperText Markup Language. It is used on the frontend and gives the structure to the webpage which you can style using CSS and make interactive using JavaScript.",
+        "Visit the following resources to learn more:"
+      ],
+      "links": [
+        "https://www.w3schools.com/html/html_intro.asp",
+        "https://htmlreference.io/",
+        "https://html.com",
+        "https://internetingishard.netlify.app/html-and-css/index.html",
+        "https://github.com/denysdovhan/learnyouhtml",
+        "https://youtu.be/mJgBOIoGihA",
+        "https://www.youtube.com/watch?v=pQN-pnXPaVg",
+        "https://www.youtube.com/watch?v=qz0aGYrrlhU",
+        "https://www.htmhell.dev/adventcalendar/2023/2/",
+        "https://app.daily.dev/tags/html?ref=roadmapsh"
+      ]
+    },
+    "CSS": {
+      "title": "CSS",
+      "type": "topic",
+      "paragraphs": [
+        "CSS or Cascading Style Sheets is the language used to style the frontend of any website. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.",
+        "Visit the following resources to learn more:"
+      ],
+      "links": [
+        "https://www.theodinproject.com//",
+        "https://flexbox.io/",
+        "https://youtu.be/n4R2E7O-Ngo",
+        "https://www.youtube.com/watch?v=yfoY53QXEnI",
+        "https://www.youtube.com/watch?v=D-h8L5hgW-w",
+        "https://www.youtube.com/watch?v=FqmB-Zj2-PA",
+        "https://www.w3schools.com/css/",
+        "https://cssreference.io/",
+        "https://web.dev/learn/css/",
+        "https://learn.shayhowe.com/html-css/building-your-first-web-page/",
+        "https://www.joshwcomeau.com/",
+        "https://100dayscss.com",
+        "https://app.daily.dev/tags/css?ref=roadmapsh"
+      ]
+    },
+    "JavaScript": {
+      "title": "JavaScript",
+      "type": "topic",
+      "paragraphs": [
+        "JavaScript allows you to add interactivity to your pages. Common examples that you may have seen on the websites are sliders, click interactions, popups and so on.",
+        "Visit the following resources to learn more:"
+      ],
+      "links": [
+        "/javascript",
+        "https://www.w3schools.com/js/",
+        "https://javascript.info/",
+        "https://www.javascripttutorial.net/",
+        "https://eloquentjavascript.net/",
+        "https://github.com/getify/You-Dont-Know-JS",
+        "https://youtu.be/hdI2bqOjy3c?t=2",
+        "https://youtu.be/P7t13SGytRk?t=22",
+        "https://javascript30.com/",
+        "https://github.com/workshopper/javascripting",
+        "https://app.daily.dev/tags/javascript?ref=roadmapsh"
+      ]
+    },
+    "Git": {
+      "title": "Git",
+      "type": "topic",
+      "paragraphs": [
+        "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.",
+        "Visit the following resources to learn more:"
+      ],
+      "links": [
+        "https://git-scm.com/",
+        "https://www.youtube.com/watch?v=SWYqp7iY_Tc",
+        "https://www.atlassian.com/git",
+        "https://cs.fyi/guide/git-cheatsheet",
+        "https://thenewstack.io/tutorial-git-for-absolutely-everyone/",
+        "https://app.daily.dev/tags/git?ref=roadmapsh"
+      ]
+    },
+    "GitHub": {
+      "title": "GitHub",
+      "type": "topic",
+      "paragraphs": [
+        "GitHub is a provider of internet hosting for software development and version control using Git. It offers the distributed version control and source code management functionality of Git, plus its own features.",
+        "Visit the following resources to learn more:"
+      ],
+      "links": [
+        "https://github.com",
+        "https://docs.github.com/en/get-started/quickstart/hello-world",
+        "https://skills.github.com/",
+        "https://www.youtube.com/watch?v=w3jLJU7DT5E",
+        "https://www.youtube.com/watch?v=wpISo9TNjfU",
+        "https://www.youtube.com/watch?v=RGOj5yH7evk",
+        "https://www.youtube.com/watch?v=eulnSXkhE7I",
+        "https://app.daily.dev/tags/github?ref=roadmapsh"
+      ]
+    },
+    "npm": {
+      "title": "npm",
+      "type": "topic",
+      "paragraphs": [
+        "npm is a package manager for the JavaScript programming language maintained by npm, Inc. npm is the default package manager for the JavaScript runtime environment Node.js.",
+        "Visit the following resources to learn more:"
+      ],
+      "links": [
+        "https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.html",
+        "https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/",
+        "https://github.com/workshopper/how-to-npm",
+        "https://www.youtube.com/watch?v=2V1UUhBJ62Y",
+        "https://www.youtube.com/watch?v=jHDhaSSKmB0",
+        "https://app.daily.dev/tags/npm?ref=roadmapsh"
+      ]
+    },
+    "React": {
+      "title": "React",
+      "type": "topic",
+      "paragraphs": [
+        "React is the most popular front-end JavaScript library for building user interfaces. React can also render on the server using Node and power mobile apps using React Native.",
+        "Visit the following resources to learn more:"
+      ],
+      "links": [
+        "/react",
+        "https://react.dev",
+        "https://react.dev/learn/tutorial-tic-tac-toe",
+        "https://www.youtube.com/watch?v=nTeuhbP7wdE",
+        "https://www.youtube.com/watch?v=bMknfKXIFA8",
+        "https://www.youtube.com/watch?v=i793Qm6kv3U",
+        "https://app.daily.dev/tags/react?ref=roadmapsh"
+      ]
+    },
+    "Tailwind": {
+      "title": "Tailwind CSS",
+      "type": "topic",
+      "paragraphs": [
+        "CSS Framework that provides atomic CSS classes to help you style components e.g. flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup.",
+        "Visit the following resources to learn more:"
+      ],
+      "links": [
+        "https://tailwindcss.com",
+        "https://www.youtube.com/watch?v=lCxcTsOHrjo",
+        "https://www.youtube.com/watch?v=UBOj6rqRUME",
+        "https://www.youtube.com/watch?v=hdGsFpZ0J2E",
+        "https://www.youtube.com/c/TailwindLabs/videos",
+        "https://app.daily.dev/tags/css?ref=roadmapsh"
+      ]
+    },
+    "Vitest": {
+      "title": "Vitest",
+      "type": "topic",
+      "paragraphs": [
+        "Vitest is a fast Vite-native unit test framework with out-of-box ESM, TypeScript and JSX support.\nWorks on React, Vue, Svelte and more projects created with Vite",
+        "Visit the following resources to learn more:"
+      ],
+      "links": [
+        "https://vitest.dev/"
+      ]
+    }
+  }
+}
